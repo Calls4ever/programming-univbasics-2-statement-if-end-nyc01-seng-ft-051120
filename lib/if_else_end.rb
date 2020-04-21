@@ -1,5 +1,5 @@
 # Write your solution here
 if Time.now.second%2==0
-  puts "even"
+  puts "Even"
 elsif Time.now.second%2!=0
-   puts "odd"
+   puts "Ocdd"
