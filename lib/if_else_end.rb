@@ -1,5 +1,5 @@
 # Write your solution here
-def evenodd()
+def evenodd
   current_time = Time.now
   current_time = current_time.to_i
 
@@ -7,4 +7,5 @@ def evenodd()
     puts "Even!"
   else
      puts "Odd!"
+   end
 end
